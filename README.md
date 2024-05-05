@@ -4,7 +4,7 @@ This repository shows how to combine the popular optimization framework casadi w
 ### Installation
 First clone the repository:
 ```bash
-git@github.com:mgomezandreu/casadi_warp.git
+git clone git@github.com:mgomezandreu/casadi_warp.git
 ```
 
 To install the required packages, run the following command:
