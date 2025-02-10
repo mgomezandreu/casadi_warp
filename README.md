@@ -315,6 +315,3 @@ The presented code is a first step to accelerate casadi with NVIDIA Warp. The ob
 
 NVIDIA Warp does support [automatic differentiation on its kernels](https://nvidia.github.io/warp/index.html), so this is a route that I will explore in the future.
 
-### Repository
-The code is available on [github]()
-
